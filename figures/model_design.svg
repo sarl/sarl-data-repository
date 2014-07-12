@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512.17511"
+   height="288.32596"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="model_design.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3811"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3808"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3808-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3811-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3808-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-53"
+       style="overflow:visible">
+      <path
+         id="path3811-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible">
+      <path
+         id="path3811-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-1"
+       style="overflow:visible">
+      <path
+         id="path3811-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-19"
+       style="overflow:visible">
+      <path
+         id="path3811-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-57"
+       style="overflow:visible">
+      <path
+         id="path3811-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="297.69109"
+     inkscape:cy="107.17487"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.92857,-194.12868)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 257.71428,431.24538 125,0"
+       id="path3802-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="M 260.92857,376.60251 386.64285,304.45966"
+       id="path3802-22"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-3);marker-end:url(#Arrow1Lend)"
+       d="m 264.85714,251.24538 120.71429,0"
+       id="path3802-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 485.21429,298.74538 0,73.57143"
+       id="path3802-9-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 164.5,377.3168 0,-73.57143"
+       id="path3802-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 262.85713,301.19661 125.71428,72.14285"
+       id="path3802"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g3027">
+      <rect
+         y="194.78668"
+         x="71.258934"
+         height="109.18633"
+         width="195.11806"
+         id="rect2996"
+         style="fill:#7bbeff;fill-opacity:1;stroke:#000000;stroke-width:0.66072839;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3766"
+         y="218.23959"
+         x="168.54062"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:Arial Bold"
+           y="218.23959"
+           x="168.54062"
+           id="tspan3768"
+           sodipodi:role="line">Behaviors</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3017"
+         y="244.10252"
+         x="165.89565"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-size:13px"
+           y="244.10252"
+           x="165.89565"
+           id="tspan3019"
+           sodipodi:role="line">Internal Agent Architecture</tspan><tspan
+           style="font-size:13px"
+           id="tspan3025"
+           y="260.35254"
+           x="165.89565"
+           sodipodi:role="line" /><tspan
+           style="font-size:13px"
+           id="tspan3021"
+           y="276.60251"
+           x="165.89565"
+           sodipodi:role="line">Modeling of agent deliberation</tspan><tspan
+           style="font-size:13px"
+           id="tspan3023"
+           y="292.85251"
+           x="165.89565"
+           sodipodi:role="line">processes (agent mind)</tspan></text>
+    </g>
+    <g
+       transform="translate(316.39633,0)"
+       id="g3027-5">
+      <g
+         id="g3159">
+        <rect
+           style="fill:#7bbeff;fill-opacity:1;stroke:#000000;stroke-width:0.66072839;stroke-opacity:1"
+           id="rect2996-1"
+           width="195.11806"
+           height="109.18633"
+           x="71.258934"
+           y="194.78668" />
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="168.54062"
+           y="218.23959"
+           id="text3766-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3768-9"
+             x="168.54062"
+             y="218.23959"
+             style="font-weight:bold;-inkscape-font-specification:Arial Bold">Environment</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="165.89565"
+           y="244.10252"
+           id="text3017-7"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan3088"
+             sodipodi:role="line"
+             x="165.89565"
+             y="244.10252"
+             style="font-size:13px">Physical objects of the world,</tspan><tspan
+             id="tspan3092"
+             sodipodi:role="line"
+             x="165.89565"
+             y="260.35254"
+             style="font-size:13px">their structuring, environment</tspan><tspan
+             id="tspan3094"
+             sodipodi:role="line"
+             x="165.89565"
+             y="276.60251"
+             style="font-size:13px">dynamics (evaporation...)</tspan></text>
+      </g>
+      <g
+         transform="translate(-316.39633,178.15124)"
+         id="g3027-0">
+        <rect
+           y="194.78668"
+           x="71.258934"
+           height="109.18633"
+           width="195.11806"
+           id="rect2996-7"
+           style="fill:#7bbeff;fill-opacity:1;stroke:#000000;stroke-width:0.66072839;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3766-1"
+           y="218.23959"
+           x="168.54062"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;-inkscape-font-specification:Arial Bold"
+             y="218.23959"
+             x="168.54062"
+             id="tspan3768-1"
+             sodipodi:role="line">Scheduling</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3017-4"
+           y="244.10252"
+           x="165.89565"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             style="font-size:13px"
+             id="tspan3023-5"
+             y="244.10252"
+             x="165.89565"
+             sodipodi:role="line">Temporal dynamic of the system</tspan><tspan
+             style="font-size:13px"
+             y="260.35254"
+             x="165.89565"
+             sodipodi:role="line"
+             id="tspan3186" /><tspan
+             style="font-size:13px"
+             y="276.60251"
+             x="165.89565"
+             sodipodi:role="line"
+             id="tspan3188">Modeling of the time progress,</tspan><tspan
+             style="font-size:13px"
+             y="292.85251"
+             x="167.69838"
+             sodipodi:role="line"
+             id="tspan3190">and of the agent scheduling </tspan></text>
+      </g>
+      <g
+         id="g3168"
+         transform="translate(-119.34101,0)">
+        <rect
+           style="fill:#7bbeff;fill-opacity:1;stroke:#000000;stroke-width:0.66072839;stroke-opacity:1"
+           id="rect2996-1-1"
+           width="195.11806"
+           height="109.18633"
+           x="190.59995"
+           y="372.93793" />
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="287.88165"
+           y="396.39084"
+           id="text3766-6-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3768-9-1"
+             x="287.88165"
+             y="396.39084"
+             style="font-weight:bold;-inkscape-font-specification:Arial Bold">Interaction</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="285.23666"
+           y="422.25375"
+           id="text3017-7-6"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan3094-6"
+             sodipodi:role="line"
+             x="285.23666"
+             y="422.25375"
+             style="font-size:13px">Modeling the concurrent events</tspan><tspan
+             sodipodi:role="line"
+             x="285.23666"
+             y="438.50375"
+             style="font-size:13px"
+             id="tspan3197" /><tspan
+             sodipodi:role="line"
+             x="285.23666"
+             y="454.75375"
+             style="font-size:13px"
+             id="tspan3199">Modeling the results of actions</tspan><tspan
+             sodipodi:role="line"
+             x="285.23666"
+             y="471.00375"
+             style="font-size:13px"
+             id="tspan3201">and interactions at a given time</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="174.73172"
+       y="345.53107"
+       id="text4703"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4705"
+         x="174.73172"
+         y="345.53107"
+         style="font-size:14px;text-align:start;text-anchor:start">manages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="500.48828"
+       y="345.53107"
+       id="text4703-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4705-5"
+         x="500.48828"
+         y="345.53107"
+         style="font-size:14px;text-align:start;text-anchor:start">implies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="327.85602"
+       y="318.43643"
+       id="text4703-2-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4705-5-7"
+         x="327.85602"
+         y="318.43643"
+         style="font-size:14px;text-align:center;text-anchor:middle">implies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="327.16232"
+       y="424.15073"
+       id="text4703-2-1-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4705-5-7-0"
+         x="327.16232"
+         y="424.15073"
+         style="font-size:14px;text-align:center;text-anchor:middle">manages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="326.448"
+       y="202.86501"
+       id="text4703-2-1-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4705-5-7-7"
+         x="326.448"
+         y="202.86501"
+         style="font-size:12px;text-align:center;text-anchor:middle">Definitions of</tspan><tspan
+         sodipodi:role="line"
+         x="326.448"
+         y="217.86501"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         id="tspan4779">action, perception,</tspan><tspan
+         sodipodi:role="line"
+         x="326.448"
+         y="232.86501"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         id="tspan4781">and conflict</tspan><tspan
+         sodipodi:role="line"
+         x="326.448"
+         y="247.86501"
+         style="font-size:12px;text-align:center;text-anchor:middle"
+         id="tspan4783">resolution</tspan></text>
+  </g>
+</svg>
