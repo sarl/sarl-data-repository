@@ -1,5 +1,5 @@
-License of "utn.svg"
-====================
+Copyright of "utn.svg"
+======================
 
     Universidad Tecnológica Nacional
     Facultad Regional Tucumán

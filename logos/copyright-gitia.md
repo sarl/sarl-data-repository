@@ -1,5 +1,5 @@
-License of "gitia.svg"
-======================
+Copyright of "gitia.svg"
+========================
 
     Universidad Tecnológica Nacional
     Facultad Regional Tucumán

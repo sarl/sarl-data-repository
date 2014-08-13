@@ -10,14 +10,14 @@ You could find:
 * UML diagrams, etc.
 
 
-License
-=======
+License and Copyright
+=====================
 
-A large part of the files in this project are distributed under the following license.
+A large part of the files in this project are distributed under the license below.
 
-There is some exceptions (logos, etc.). In this case, a specific license file exists
-in the same folder as the data file. The basename of this particular license file is
-the same as the basename of the data's filename.
+BUT, there is some exceptions (logos, etc.). In this case, a specific copyright file exists
+in the same folder as the data file. The basename of this particular copyright file is
+the same as the basename of the data's filename but prefixed with "copyright-".
 
 
 

@@ -1,5 +1,5 @@
-License of "irtes.svg"
-======================
+Copyright of "multiagent_fr.svg"
+================================
 
     UNIVERSITÉ DE TECHNOLOGIE DE BELFORT-MONTBÉLIARD
     90010 Belfort cedex
