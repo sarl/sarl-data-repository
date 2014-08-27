@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="compilation-process.svg">
+   sodipodi:docname="compilation-process.svg"
+   inkscape:export-filename="/home/sgalland/git/sarl-data-repository/figures/compilation-process.png"
+   inkscape:export-xdpi="171"
+   inkscape:export-ydpi="171">
   <defs
      id="defs4">
     <marker
@@ -1192,10 +1195,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="170.86397"
-     inkscape:cy="57.845032"
+     inkscape:cx="176.16727"
+     inkscape:cy="53.804422"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6453-5-2"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="876"
@@ -1214,7 +1217,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3210,7 +3213,7 @@
          height="30.911638"
          width="66.077194"
          id="rect6451"
-         style="fill:#286296;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#4e5d6c;fill-opacity:1;stroke:#000000;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3510"
@@ -3362,7 +3365,7 @@
          height="30.911638"
          width="66.077194"
          id="rect6451-4"
-         style="fill:#286296;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#4e5d6c;fill-opacity:1;stroke:#000000;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3510-8"
@@ -3388,7 +3391,7 @@
          height="30.911638"
          width="66.077194"
          id="rect6451-4-3"
-         style="fill:#286296;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#4e5d6c;fill-opacity:1;stroke:#000000;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3510-8-9"
