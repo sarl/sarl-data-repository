@@ -8,6 +8,7 @@ You could find:
 * logos,
 * figures for documents and presentations,
 * UML diagrams, etc.
+* UI resources
 
 
 License and Copyright
