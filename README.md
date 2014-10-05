@@ -9,6 +9,7 @@ You could find:
 * figures for documents and presentations,
 * UML diagrams, etc.
 * UI resources
+* LaTeX packages.
 
 
 License and Copyright
