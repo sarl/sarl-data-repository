@@ -10,12 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="14.250793"
-   height="14.250793"
+   width="16.250792"
+   height="16.250793"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="sarl-event.svg">
+   sodipodi:docname="sarl-event.svg"
+   inkscape:export-filename="/home/sgalland/git/sarl-data-repository/ui/icons/sarl-event.png"
+   inkscape:export-xdpi="88"
+   inkscape:export-ydpi="88">
   <defs
      id="defs4">
     <linearGradient
@@ -410,21 +413,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="16.063833"
-     inkscape:cy="124.69357"
+     inkscape:zoom="14.481547"
+     inkscape:cx="9.1558593"
+     inkscape:cy="-2.2604516"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="876"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -433,7 +436,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -441,7 +444,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-195.88992,-511.64813)">
+     transform="translate(-194.88992,-510.64813)">
     <path
        sodipodi:type="arc"
        style="color:#000000;fill:url(#radialGradient4258);fill-opacity:1;stroke:#959595;stroke-width:0.5;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
